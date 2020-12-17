@@ -1,0 +1,26 @@
+{
+  "name": "magenta-betty",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KasNotten/magenta-betty.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Kas Notten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KasNotten/magenta-betty/issues"
+  },
+  "homepage": "https://github.com/KasNotten/magenta-betty#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
+}
